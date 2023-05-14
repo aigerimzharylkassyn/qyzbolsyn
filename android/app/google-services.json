@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "570954460172",
+    "project_id": "appqyzbolsyn",
+    "storage_bucket": "appqyzbolsyn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570954460172:android:cb0a749d3ec0d0b8345229",
+        "android_client_info": {
+          "package_name": "com.example.qyzbolsynapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570954460172-j1b68e5gk2gl1bskgqose5i1543chr1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCveiLnD20jYy6EKMRWcIedfb0UQFIcrIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570954460172-j1b68e5gk2gl1bskgqose5i1543chr1f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570954460172-s1qd7e9t9ipsa2iilfpvc83jpdehnjfu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qyzbolsynapp1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
